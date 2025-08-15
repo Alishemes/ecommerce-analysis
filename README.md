@@ -1,40 +1,53 @@
 # 📊 E-commerce Sales Analysis
 
-تحليل بيانات مبيعات متجر إلكتروني باستخدام Python و Power BI.
+An interactive sales analysis for an online store using **Python** (Pandas, Seaborn) and **Power BI** dashboards.
 
 ---
 
-## 📁 محتوى المشروع
+## 🧠 Project Overview
 
-- تحليل البيانات باستخدام Python (Pandas, Seaborn)
-- إنشاء Dashboard تفاعلي باستخدام Power BI
-- استكشاف المبيعات حسب المنتج والعملاء والزمن والموقع الجغرافي
+This project aims to analyze sales data from an e-commerce platform in order to uncover key business insights and trends. The analysis combines the power of Python for data preprocessing and visualization, along with Power BI for building interactive dashboards.
 
 ---
 
-## 🛠️ الأدوات المستخدمة
+## 📁 Project Structure
 
-- Python
-- Pandas, Seaborn, Matplotlib
-- Power BI
-- Git & GitHub
+- `Python (Pandas, Seaborn)`  
+  Data cleaning, analysis, and static visualizations.
 
----
-
-## 🖼️ لمحة من التحليل
-
-📌 Bar Charts, Line Charts, Maps, Donut Charts  
-📌 Dashboard تفاعلي يعرض أهم المؤشرات
+- `Power BI Dashboard`  
+  Dynamic, interactive report highlighting KPIs, trends, and breakdowns by product, customer, and region.
 
 ---
 
-## 🚀 طريقة التشغيل
+## 📌 Key Objectives
 
-1. شغل ملف Python Notebook (Jupyter Notebook)
-2. افتح ملف Power BI (`.pbix`) لمشاهدة التحليل التفاعلي
+- Understand customer purchasing behavior  
+- Identify top-selling products and categories  
+- Monitor sales trends over time (monthly, daily)  
+- Discover correlations between price and quantity  
+- Provide interactive visuals for business decision-making  
 
 ---
 
-## 👨‍💻 من إنجاز
+## 📦 Tools & Technologies
 
-- [Alishemes](https://github.com/Alishemes)
+- **Python**: Pandas, Seaborn, Matplotlib  
+- **Power BI**: Interactive dashboards and KPIs  
+- **Jupyter Notebook** (for development)  
+- **Excel / CSV files** (as data source)
+
+---
+
+## 🌍 Language
+
+This project README is available in:
+- 🇬🇧 English (this file)  
+- 🇸🇦 [Arabic version](README_AR.md) *(optional)*
+
+---
+
+## 📬 Contact
+
+If you have any feedback or questions, feel free to connect with me on [LinkedIn](#) or open an issue.
+
