@@ -49,5 +49,5 @@ This project README is available in:
 
 ## 📬 Contact
 
-If you have any feedback or questions, feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/ali-shemes-ab7872267/) or open an issue.
+If you have any feedback or questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ali-shemes-ab7872267/) or open an issue.
 
